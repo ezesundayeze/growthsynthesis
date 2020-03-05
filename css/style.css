@@ -2086,19 +2086,22 @@ select.form-control.has-value{
         display: none;
     }
 }
+
 .screen-carousel .owl-item img {
     -webkit-transform: scale(.85);
     transform: scale(.85);
     -webkit-transition: 0.3s;
     transition: 0.3s;
     border: 1px solid #ebebeb;
-    border-radius: 30px
+    /* border-radius: 30px */
 }
 
 .screen-carousel .owl-item.active.center img {
     -webkit-transform: scale(1);
-    transform: scale(1)
+    transform: scale(1);
 }
+
+
 
 
 

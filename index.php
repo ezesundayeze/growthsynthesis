@@ -113,7 +113,7 @@
                         <h1 class="text-white"><span>Software Development Company.</span></h1>
                         <p class="lead">Are you looking to build a website for your business, automate your business process or run a vigorous marketing campaign that actually generate profits?</p>
 
-                        <a href="#" class="btn app-store-btn">Contact us</a>
+                        <a href="#contact" class="btn app-store-btn">Contact us</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-5">
@@ -569,14 +569,14 @@
             </div>
             <!--start app screen carousel-->
             <div class="screen-slider-content mt-5">
-                <div class="screenshot-frame"></div>
+                <!-- <div class="screenshot-frame"></div> -->
                 <div class="screen-carousel owl-carousel owl-theme dot-indicator">
-                    <img src="img/01.png" class="img-fluid" alt="screenshots">
-                    <img src="img/02.png" class="img-fluid" alt="screenshots">
+                    <img src="img/01.jpg" class="img-fluid" alt="screenshots">
+                    <!-- <img src="img/02.png" class="img-fluid" alt="screenshots">
                     <img src="img/03.png" class="img-fluid" alt="screenshots">
                     <img src="img/04.png" class="img-fluid" alt="screenshots">
                     <img src="img/05.png" class="img-fluid" alt="screenshots">
-                    <img src="img/06.png" class="img-fluid" alt="screenshots">
+                    <img src="img/06.png" class="img-fluid" alt="screenshots"> -->
                 </div>
             </div>
             <!--end app screen carousel-->
@@ -606,7 +606,24 @@
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Surendra Shukla</h5>
-                            <h6>Senior Designer</h6>
+                            <h6>Senior Engineer</h6>
+                            <ul class="list-inline team-social social-icon mt-4 text-white">
+                                <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-github"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-dribbble"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-team-member position-relative">
+                        <div class="team-image">
+                            <img src="img/team-10.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                        </div>
+                        <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
+                            <h5 class="mb-0">Ify Lynda</h5>
+                            <h6>Digital Marketer</h6>
                             <ul class="list-inline team-social social-icon mt-4 text-white">
                                 <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
                                 <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
@@ -623,7 +640,7 @@
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Eze Sunday</h5>
-                            <h6>Senior Designer</h6>
+                            <h6>Senior Engineer</h6>
                             <ul class="list-inline team-social social-icon mt-4 text-white">
                                 <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
                                 <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
@@ -640,24 +657,7 @@
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Ukeh Hyginus</h5>
-                            <h6>Senior Designer</h6>
-                            <ul class="list-inline team-social social-icon mt-4 text-white">
-                                <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
-                                <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
-                                <li class="list-inline-item"><a href="#"><span class="ti-github"></span></a></li>
-                                <li class="list-inline-item"><a href="#"><span class="ti-dribbble"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-team-member position-relative">
-                        <div class="team-image">
-                            <img src="img/team-3.jpg" alt="Team Members" class="img-fluid rounded-circle">
-                        </div>
-                        <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
-                            <h5 class="mb-0">Edna Mason</h5>
-                            <h6>Senior Designer</h6>
+                            <h6>Senior Engineer</h6>
                             <ul class="list-inline team-social social-icon mt-4 text-white">
                                 <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
                                 <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
@@ -680,20 +680,19 @@
                     <div class="section-heading mb-5">
                         <h2>Testimonials <br><span>what clients say</span></h2>
                         <p class="lead">
-                            Rapidiously morph transparent internal or "organic" sources whereas resource sucking
-                            e-business. Conveniently innovate compelling internal.
+                        One of our most important core goal is to ensure that our customers are happy. However,  you don't have to take our words for it, here is what our customers are saying about our services :
                         </p>
 
-                        <!-- <div class="client-section-wrap d-flex flex-row align-items-center">
+                        <div class="client-section-wrap d-flex flex-row align-items-center">
                             <ul class="list-inline">
-                                <li class="list-inline-item"><img src="img/client-1-color.png" width="85" alt="client"
+                                <li class="list-inline-item"><img src="img/client-9-color.jpg" width="120" alt="client"
                                                                   class="img-fluid"></li>
-                                <li class="list-inline-item"><img src="img/client-6-color.png" width="85" alt="client"
+                                <li class="list-inline-item"><img src="img/client-10-color.jpg" width="120" alt="client"
                                                                   class="img-fluid"></li>
-                                <li class="list-inline-item"><img src="img/client-3-color.png" width="85" alt="client"
-                                                                  class="img-fluid"></li>
+                                <!-- <li class="list-inline-item"><img src="img/client-3-color.png" width="85" alt="client"
+                                                                  class="img-fluid"></li> -->
                             </ul>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-5">
