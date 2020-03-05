@@ -65,13 +65,12 @@
             <div class="collapse navbar-collapse main-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#">Home</a>
+                        <a class="nav-link page-scroll" href="#home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#about">About</a>
+                        <a class="nav-link page-scroll" href="#about-main">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#features">Features</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#screenshots">Projects</a>
@@ -95,7 +94,7 @@
 <div class="main">
 
     <!--hero section start-->
-    <section class="hero-section hero-section-2 ptb-100">
+    <section id="home" class="hero-section hero-section-2 ptb-100">
         <div class="circles">
             <div class="point animated-point-1"></div>
             <div class="point animated-point-2"></div>
@@ -114,7 +113,7 @@
                         <h1 class="text-white"><span>Software Development Company.</span></h1>
                         <p class="lead">Are you looking to build a website for your business, automate your business process or run a vigorous marketing campaign that actually generate profits?</p>
 
-                        <a href="#" class="btn app-store-btn">Contact with us</a>
+                        <a href="#" class="btn app-store-btn">Contact us</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-5">
@@ -135,7 +134,7 @@
     <!--hero section end-->
 
     <!--promo section start-->
-    <section class="promo-section ptb-100">
+    <section id="about-main" class="promo-section ptb-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-7 col-md-8">
@@ -172,7 +171,7 @@
                             <span class="ti-eye text-white"></span>
                         </div>
                         <h5>IT consultancy</h5>
-                        <p>Use the expertise and deep tech background of the best minds at Intellectsoft to create a comprehensive IT strategy for a digital and technological transformation of your organization that goes in line with your business objectives. Our strategic IT consulting will help you automate and digitalise operations, optimise the software portfolio, and implement the latest technologies.</p>
+                        <p>Use the expertise and deep tech background of the best minds at Intellectsoft to create a comprehensive IT strategy for a digital and technological transformation of your organization that goes in line with your business objectives.</p>
                     </div>
                 </div>
             </div>
@@ -181,7 +180,7 @@
     <!--promo section end-->
 
     <!--about us section start-->
-    <section id="about" class="about-us ptb-100 gray-light-bg">
+    <!-- <section id="about" class="about-us ptb-100 gray-light-bg">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md-7">
@@ -235,7 +234,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--about us section end-->
 
     <!--features section start-->
@@ -555,102 +554,7 @@
     </section> -->
     <!--our pricing packages section end-->
 
-    <!--testimonial section start-->
-    <section class="testimonial-section ptb-100">
-        <div class="container">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-md-6">
-                    <div class="section-heading mb-5">
-                        <h2>Testimonials <br><span>what clients say</span></h2>
-                        <p class="lead">
-                            Rapidiously morph transparent internal or "organic" sources whereas resource sucking
-                            e-business. Conveniently innovate compelling internal.
-                        </p>
-
-                        <!-- <div class="client-section-wrap d-flex flex-row align-items-center">
-                            <ul class="list-inline">
-                                <li class="list-inline-item"><img src="img/client-1-color.png" width="85" alt="client"
-                                                                  class="img-fluid"></li>
-                                <li class="list-inline-item"><img src="img/client-6-color.png" width="85" alt="client"
-                                                                  class="img-fluid"></li>
-                                <li class="list-inline-item"><img src="img/client-3-color.png" width="85" alt="client"
-                                                                  class="img-fluid"></li>
-                            </ul>
-                        </div> -->
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="owl-carousel owl-theme client-testimonial arrow-indicator">
-                        <div class="item">
-                            <div class="testimonial-quote-wrap">
-                                <div class="media author-info mb-3">
-                                    <div class="author-img mr-3">
-                                        <img src="img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class="mb-0">John Charles</h5>
-                                        <span>Google</span>
-                                    </div>
-                                </div>
-                                <div class="client-say">
-                                    <p> <img src="img/quote.png" alt="quote" class="img-fluid"> Interactively optimize fully researched expertise vis-a-vis plug-and-play relationships. Intrinsicly develop viral core competencies for fully tested customer service. Enthusiastically create next-generation growth strategies and.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-quote-wrap">
-                                <div class="media author-info mb-3">
-                                    <div class="author-img mr-3">
-                                        <img src="img/client-2.jpg" alt="client" class="img-fluid rounded-circle">
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class="mb-0">Arabella Ora</h5>
-                                        <span>Amazon</span>
-                                    </div>
-                                </div>
-                                <div class="client-say">
-                                    <p><img src="img/quote.png" alt="quote" class="img-fluid">  Rapidiously develop user friendly growth strategies after extensive initiatives. Conveniently grow innovative benefits through fully tested deliverables. Rapidiously utilize focused platforms through end-to-end schemas.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-quote-wrap">
-                                <div class="media author-info mb-3">
-                                    <div class="author-img mr-3">
-                                        <img src="img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class="mb-0">Jeremy Jere</h5>
-                                        <span>Themetags</span>
-                                    </div>
-                                </div>
-                                <div class="client-say">
-                                    <p><img src="img/quote.png" alt="quote" class="img-fluid"> Objectively synthesize client-centered e-tailers for maintainable channels. Holisticly administrate customer directed vortals whereas tactical functionalities. Energistically monetize reliable imperatives through client-centric best practices. Collaboratively.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-quote-wrap">
-                                <div class="media author-info mb-3">
-                                    <div class="author-img mr-3">
-                                        <img src="img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class="mb-0">John Charles</h5>
-                                        <span>Google</span>
-                                    </div>
-                                </div>
-                                <div class="client-say">
-                                    <p><img src="img/quote.png" alt="quote" class="img-fluid"> Enthusiastically innovate B2C data without clicks-and-mortar convergence. Monotonectally deliver compelling testing procedures vis-a-vis B2B testing procedures. Competently evisculate integrated resources whereas global processes. Enthusiastically.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--testimonial section end-->
+    
 
     <!--screenshots section start-->
     <section id="screenshots" class="screenshots-section ptb-100 primary-bg">
@@ -658,8 +562,8 @@
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="section-heading text-center">
-                        <h2 class="text-white">App screenshots <br> <span>Looks awesome</span></h2>
-                        <p class="lead">Credibly synthesize multimedia based networks vis-a-vis top-line growth strategies. Continually leverage existing worldwide interfaces </p>
+                        <h2 class="text-white">Our Projects</span></h2>
+                        <p class="lead">We have built incredible solutions over our period of existance in the Tech Industry.</p>
                     </div>
                 </div>
             </div>
@@ -701,7 +605,7 @@
                             <img src="img/team-7.png" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
-                            <h5 class="mb-0">Edna Mason</h5>
+                            <h5 class="mb-0">Surendra Shukla</h5>
                             <h6>Senior Designer</h6>
                             <ul class="list-inline team-social social-icon mt-4 text-white">
                                 <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
@@ -718,7 +622,7 @@
                             <img src="img/team-8.jpg" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
-                            <h5 class="mb-0">Edna Mason</h5>
+                            <h5 class="mb-0">Eze Sunday</h5>
                             <h6>Senior Designer</h6>
                             <ul class="list-inline team-social social-icon mt-4 text-white">
                                 <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
@@ -735,7 +639,7 @@
                             <img src="img/team-9.jpg" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
-                            <h5 class="mb-0">Edna Mason</h5>
+                            <h5 class="mb-0">Ukeh Hyginus</h5>
                             <h6>Senior Designer</h6>
                             <ul class="list-inline team-social social-icon mt-4 text-white">
                                 <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
@@ -767,6 +671,103 @@
         </div>
     </section>
     <!--our team section end-->
+
+    <!--testimonial section start-->
+    <section class="testimonial-section ptb-100">
+        <div class="container">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-md-6">
+                    <div class="section-heading mb-5">
+                        <h2>Testimonials <br><span>what clients say</span></h2>
+                        <p class="lead">
+                            Rapidiously morph transparent internal or "organic" sources whereas resource sucking
+                            e-business. Conveniently innovate compelling internal.
+                        </p>
+
+                        <!-- <div class="client-section-wrap d-flex flex-row align-items-center">
+                            <ul class="list-inline">
+                                <li class="list-inline-item"><img src="img/client-1-color.png" width="85" alt="client"
+                                                                  class="img-fluid"></li>
+                                <li class="list-inline-item"><img src="img/client-6-color.png" width="85" alt="client"
+                                                                  class="img-fluid"></li>
+                                <li class="list-inline-item"><img src="img/client-3-color.png" width="85" alt="client"
+                                                                  class="img-fluid"></li>
+                            </ul>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="owl-carousel owl-theme client-testimonial arrow-indicator">
+                        <div class="item">
+                            <div class="testimonial-quote-wrap">
+                                <div class="media author-info mb-3">
+                                    <div class="author-img mr-3">
+                                        <img src="img/client-8.jpg" alt="client" class="img-fluid rounded-circle">
+                                    </div>
+                                    <div class="media-body">
+                                        <h5 class="mb-0">Nelson Uduji</h5>
+                                        <span>Legislator</span>
+                                    </div>
+                                </div>
+                                <div class="client-say">
+                                    <p> <img src="img/quote.png" alt="quote" class="img-fluid">... Great company, great service... your services are top notch you, gave my portfolio a new look. The way we do business is way better that what it use to be. Thank you for the amazing service!</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-quote-wrap">
+                                <div class="media author-info mb-3">
+                                    <div class="author-img mr-3">
+                                        <img src="img/client-2.jpg" alt="client" class="img-fluid rounded-circle">
+                                    </div>
+                                    <div class="media-body">
+                                        <h5 class="mb-0">Arabella Ora</h5>
+                                        <span>Amazon</span>
+                                    </div>
+                                </div>
+                                <div class="client-say">
+                                    <p><img src="img/quote.png" alt="quote" class="img-fluid">  Rapidiously develop user friendly growth strategies after extensive initiatives. Conveniently grow innovative benefits through fully tested deliverables. Rapidiously utilize focused platforms through end-to-end schemas.</p>
+                                </div>
+                            </div>
+                        </div>
+                         <!-- <div class="item">
+                            <div class="testimonial-quote-wrap">
+                                <div class="media author-info mb-3">
+                                    <div class="author-img mr-3">
+                                        <img src="img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
+                                    </div>
+                                    <div class="media-body">
+                                        <h5 class="mb-0">Jeremy Jere</h5>
+                                        <span>Themetags</span>
+                                    </div>
+                                </div>
+                                <div class="client-say">
+                                    <p><img src="img/quote.png" alt="quote" class="img-fluid"> Objectively synthesize client-centered e-tailers for maintainable channels. Holisticly administrate customer directed vortals whereas tactical functionalities. Energistically monetize reliable imperatives through client-centric best practices. Collaboratively.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-quote-wrap">
+                                <div class="media author-info mb-3">
+                                    <div class="author-img mr-3">
+                                        <img src="img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
+                                    </div>
+                                    <div class="media-body">
+                                        <h5 class="mb-0">John Charles</h5>
+                                        <span>Google</span>
+                                    </div>
+                                </div>
+                                <div class="client-say">
+                                    <p><img src="img/quote.png" alt="quote" class="img-fluid"> Enthusiastically innovate B2C data without clicks-and-mortar convergence. Monotonectally deliver compelling testing procedures vis-a-vis B2B testing procedures. Competently evisculate integrated resources whereas global processes. Enthusiastically.</p>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--testimonial section end-->
 
     <!--our blog section start-->
     <!-- <section id="blog" class="our-blog-section ptb-100">
@@ -936,12 +937,12 @@
                 <div class="col-md-12">
                     <div class="owl-carousel owl-theme clients-carousel dot-indicator">
                         <div class="item single-client">
-                            <img src="img/client-5-color.png" alt="client logo" class="client-img">
+                            <img src="img/client-9-color.jpg" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-1-color.png" alt="client logo" class="client-img">
+                            <img src="img/client-10-color.jpg" alt="client logo" class="client-img">
                         </div>
-                        <div class="item single-client">
+                        <!-- <div class="item single-client">
                             <img src="img/client-6-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
@@ -964,7 +965,7 @@
                         </div>
                         <div class="item single-client">
                             <img src="img/client-3-color.png" alt="client logo" class="client-img">
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
