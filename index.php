@@ -56,7 +56,7 @@
     <!--start navbar-->
     <nav class="navbar navbar-expand-lg fixed-top bg-transparent">
         <div class="container">
-            <a class="navbar-brand" href="index-4.html"><img src="img/logo-white-1x.png" width="120" alt="logo" class="img-fluid"></a>
+            <a class="navbar-brand text-secondary font-weight-bolder btn btn-primary p-2 bg-white" href="#">GrowthSynthesis</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="ti-menu"></span>
@@ -111,9 +111,8 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-md-6 col-lg-6">
                     <div class="hero-content-left ptb-100 text-white">
-                        <h1 class="text-white"><span>Best way to connect</span> with your customers</h1>
-                        <p class="lead">Conveniently generate multifunctional markets and B2C vortals. Uniquely enable
-                            inexpensive materials rather than sticky products.</p>
+                        <h1 class="text-white"><span>Software Development Company.</span></h1>
+                        <p class="lead">Are you looking to build a website for your business, automate your business process or run a vigorous marketing campaign that actually generate profits?</p>
 
                         <a href="#" class="btn app-store-btn">Contact with us</a>
                     </div>
@@ -141,10 +140,9 @@
             <div class="row justify-content-center">
                 <div class="col-lg-7 col-md-8">
                     <div class="section-heading text-center mb-5">
-                        <h2>Why small business owners <br><span>love GrowthSynthesis?</span></h2>
+                        <h2>WHO WE ARE</h2>
                         <p class="lead">
-                            Following reasons show advantages of adding GrowthSynthesis to your lead pages, demos and
-                            checkouts
+                            We are a boutique digital transformation consultancy and software development company that provides cutting edge engineering solutions.
                         </p>
                     </div>
                 </div>
@@ -155,8 +153,8 @@
                         <div class="circle-icon mb-5">
                             <span class="ti-vector text-white"></span>
                         </div>
-                        <h5>Clean Design</h5>
-                        <p>Increase sales by showing true dynamics of your website.</p>
+                        <h5>Enterprise Software Development</h5>
+                        <p>Need a solid software foundation for your business? Uncoordinated mobile apps and software stress out your employees and impede your productivity? Leverage our decade-long expertise in enterprise software development, API integration, modernising legacy systems, and consolidating app portfolios..</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4">
@@ -164,8 +162,8 @@
                         <div class="circle-icon mb-5">
                             <span class="ti-lock text-white"></span>
                         </div>
-                        <h5>Secure Data</h5>
-                        <p>Build your online store’s trust using Social Proof & Urgency.</p>
+                        <h5>APP Development</h5>
+                        <p>Going mobile will help your business streamline operations, bring value to the demanding modern customers, and help you tackle Big Data. Whether it is your first app or fifth, our decade-long expertise in mobile app development will help you succeed with your mobile strategy.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4">
@@ -173,8 +171,8 @@
                         <div class="circle-icon mb-5">
                             <span class="ti-eye text-white"></span>
                         </div>
-                        <h5>Retina Ready</h5>
-                        <p>Realize importance of social proof in customer’s purchase decision.</p>
+                        <h5>IT consultancy</h5>
+                        <p>Use the expertise and deep tech background of the best minds at Intellectsoft to create a comprehensive IT strategy for a digital and technological transformation of your organization that goes in line with your business objectives. Our strategic IT consulting will help you automate and digitalise operations, optimise the software portfolio, and implement the latest technologies.</p>
                     </div>
                 </div>
             </div>
@@ -241,7 +239,7 @@
     <!--about us section end-->
 
     <!--features section start-->
-    <section id="features" class="feature-section ptb-100">
+    <!-- <section id="features" class="feature-section ptb-100">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md-4">
@@ -387,11 +385,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--features section end-->
 
     <!--our video promo section start-->
-    <section class="video-promo ptb-100 background-img"
+    <!-- <section class="video-promo ptb-100 background-img"
              style="background: url('img/hero-bg-1.jpg')no-repeat center center / cover">
         <div class="container">
             <div class="row justify-content-center">
@@ -410,11 +408,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--our video promo section end-->
 
     <!--our pricing packages section start-->
-    <section id="pricing" class="package-section gray-light-bg ptb-100">
+    <!-- <section id="pricing" class="package-section gray-light-bg ptb-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8">
@@ -504,9 +502,9 @@
                 <p class="mb-2">If you need custom services or Need more? <a href="#" class="color-secondary">
                     Contact us
                 </a></p>
-            </div>
+            </div> -->
             <!--faq start-->
-            <div class="row pt-5">
+            <!-- <div class="row pt-5">
                 <div class="col-md-6">
                     <div class="single-faq">
                         <h5>How can I pay for this?</h5>
@@ -551,10 +549,10 @@
                             intellectual capital whereas 2.0 mindshare.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--faq end-->
-        </div>
-    </section>
+        <!-- </div>
+    </section> -->
     <!--our pricing packages section end-->
 
     <!--testimonial section start-->
@@ -569,7 +567,7 @@
                             e-business. Conveniently innovate compelling internal.
                         </p>
 
-                        <div class="client-section-wrap d-flex flex-row align-items-center">
+                        <!-- <div class="client-section-wrap d-flex flex-row align-items-center">
                             <ul class="list-inline">
                                 <li class="list-inline-item"><img src="img/client-1-color.png" width="85" alt="client"
                                                                   class="img-fluid"></li>
@@ -578,7 +576,7 @@
                                 <li class="list-inline-item"><img src="img/client-3-color.png" width="85" alt="client"
                                                                   class="img-fluid"></li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-md-5">
@@ -700,7 +698,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-team-member position-relative">
                         <div class="team-image">
-                            <img src="img/team-4.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                            <img src="img/team-7.png" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Edna Mason</h5>
@@ -717,7 +715,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-team-member position-relative">
                         <div class="team-image">
-                            <img src="img/team-1.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                            <img src="img/team-8.jpg" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Edna Mason</h5>
@@ -734,7 +732,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-team-member position-relative">
                         <div class="team-image">
-                            <img src="img/team-2.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                            <img src="img/team-9.jpg" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Edna Mason</h5>
@@ -771,7 +769,7 @@
     <!--our team section end-->
 
     <!--our blog section start-->
-    <section id="blog" class="our-blog-section ptb-100">
+    <!-- <section id="blog" class="our-blog-section ptb-100">
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
@@ -841,7 +839,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--our blog section end-->
 
     <!--contact us section start-->
@@ -857,10 +855,10 @@
                     </div>
                     <div class="footer-address">
                         <h6><strong>Head Office</strong></h6>
-                        <p>121 King St, Melbourne VIC 3000, Australia</p>
+                        <p>No 24 Obasanjo Road, Dutse, Abuja Nigeria</p>
                         <ul>
-                            <li><span>Phone: +61 2 8376 6284</span></li>
-                            <li><span>Email : <a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></span>
+                            <li><span>Phone: +2349067005754, +2348068208406</span></li>
+                            <li><span>Email : <a href="mailto:info@growthsynthesis.com">info@growthsynthesis.com</a></span>
                             </li>
                         </ul>
                     </div>
@@ -987,7 +985,7 @@
                 <form action="#" method="post" class="subscribe-form subscribe-form-footer d-none d-md-block d-lg-block">
                     <div class="d-flex align-items-center">
                         <input type="text" class="form-control input" id="email-footer" name="email"
-                               placeholder="info@yourdomain.com">
+                               placeholder="info@growthsynthesis.com">
                         <input type="submit" class="button btn solid-btn" id="submit-footer" value="Subscribe">
                     </div>
                 </form>
@@ -1042,15 +1040,15 @@
                         <h5 class="mb-3 text-white">Support</h5>
                         <ul class="list-unstyled support-list">
                             <li class="mb-2 d-flex align-items-center"><span class="ti-location-pin mr-2"></span>
-                                121 King Melbourne
-                                <br>Australia 3000
+                                    No 24 Obasanjo Road, Dutse.
+                                <br>Abuja Nigeria.
                             </li>
                             <li class="mb-2 d-flex align-items-center"><span class="ti-mobile mr-2"></span> <a
-                                    href="tel:+61283766284"> +61 2 8376 6284</a></li>
+                                    href="tel:+61283766284">+2349067005754, +2348068208406 </a></li>
                             <li class="mb-2 d-flex align-items-center"><span class="ti-email mr-2"></span><a
-                                    href="mailto:mail@example.com"> mail@example.com</a></li>
+                                    href="mailto:mail@example.com"> info@growthsynthesis.com</a></li>
                             <li class="mb-2 d-flex align-items-center"><span class="ti-world mr-2"></span><a
-                                    href="#"> www.yourdomain.com</a></li>
+                                    href="#"> http://www.growthsynthesis.com/</a></li>
                         </ul>
                     </div>
                 </div>
@@ -1069,9 +1067,9 @@
     <div class="footer-bottom gray-light-bg pt-4 pb-4">
         <div class="container">
             <div class="row text-center justify-content-center">
-                <div class="col-md-6 col-lg-5"><p class="copyright-text pb-0 mb-0">Copyrights © 2019. All
+                <div class="col-md-6 col-lg-5"><p class="copyright-text pb-0 mb-0">Copyrights © 2020. All
                     rights reserved by
-                    <a href="#">ThemeTags</a></p>
+                    <a href="#">GrowthSynthesis</a></p>
                 </div>
             </div>
         </div>
