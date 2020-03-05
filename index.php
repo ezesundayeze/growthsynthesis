@@ -568,18 +568,25 @@
                 </div>
             </div>
             <!--start app screen carousel-->
-            <div class="screen-slider-content mt-5">
-                <!-- <div class="screenshot-frame"></div> -->
+            <!-- <div class="screen-slider-content mt-5">
+                <div class="screenshot-frame"></div>
                 <div class="screen-carousel owl-carousel owl-theme dot-indicator">
                     <img src="img/01.jpg" class="img-fluid" alt="screenshots">
-                    <!-- <img src="img/02.png" class="img-fluid" alt="screenshots">
+                    <img src="img/02.png" class="img-fluid" alt="screenshots">
                     <img src="img/03.png" class="img-fluid" alt="screenshots">
                     <img src="img/04.png" class="img-fluid" alt="screenshots">
                     <img src="img/05.png" class="img-fluid" alt="screenshots">
-                    <img src="img/06.png" class="img-fluid" alt="screenshots"> -->
+                    <img src="img/06.png" class="img-fluid" alt="screenshots">
                 </div>
-            </div>
+            </div> -->
             <!--end app screen carousel-->
+
+            <div class="row text-center p-2">
+                <div class="col-md-4 p-0" style="border:1px solid lightgrey; height:260px; background-image:url('img/about-img.jpg'); border-radius:3px; box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.12); background-position:center; background-repeat:no-repeat; background-size:100%;"><span class="font-weight-bold position-relative text-white p-2" style="top:50%; display:block; background-color:#4b4b4bd1; letter-spacing: 3px;">Payment Integration System</span></div>
+                <div class="col-md-4 p-0" style="border:1px solid lightgrey; height:260px; background-image:url('img/about-img.jpg'); border-radius:3px; box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.12); background-position:center; background-repeat:no-repeat; background-size:100%;"><span class="font-weight-bold position-relative text-white p-2" style="top:50%; display:block; background-color:#4b4b4bd1; letter-spacing: 3px;">Infomation Management System</span></div>
+                <div class="col-md-4 p-0" style="border:1px solid lightgrey; height:260px; background-image:url('img/about-img.jpg'); border-radius:3px; box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.12); background-position:center; background-repeat:no-repeat; background-size:100%;"><span class="font-weight-bold position-relative text-white p-2" style="top:50%; display:block; background-color:#4b4b4bd1; letter-spacing: 3px;">Hospital Management System</span></div>
+                <!-- <p class="text-center"><a href="#" class="btn solid-btn bg-white text-secondary my-5">More Details</a></p> -->
+            </div>
 
         </div>
     </section>
@@ -606,7 +613,7 @@
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Surendra Shukla</h5>
-                            <h6>Senior Engineer</h6>
+                            <h6>Infrastructure Engineer</h6>
                             <ul class="list-inline team-social social-icon mt-4 text-white">
                                 <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
                                 <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
@@ -680,15 +687,15 @@
                     <div class="section-heading mb-5">
                         <h2>Testimonials <br><span>what clients say</span></h2>
                         <p class="lead">
-                        One of our most important core goal is to ensure that our customers are happy. However,  you don't have to take our words for it, here is what our customers are saying about our services :
+                        One of our most important core goal is to ensure that our customers are happy. However,  you don't have to take our words for it, here is what our customers are saying about our services ..
                         </p>
 
                         <div class="client-section-wrap d-flex flex-row align-items-center">
                             <ul class="list-inline">
-                                <li class="list-inline-item"><img src="img/client-9-color.jpg" width="120" alt="client"
+                                <!-- <li class="list-inline-item"><img src="img/client-9-color.jpg" width="120" alt="client"
                                                                   class="img-fluid"></li>
                                 <li class="list-inline-item"><img src="img/client-10-color.jpg" width="120" alt="client"
-                                                                  class="img-fluid"></li>
+                                                                  class="img-fluid"></li> -->
                                 <!-- <li class="list-inline-item"><img src="img/client-3-color.png" width="85" alt="client"
                                                                   class="img-fluid"></li> -->
                             </ul>
@@ -721,11 +728,11 @@
                                     </div>
                                     <div class="media-body">
                                         <h5 class="mb-0">Arabella Ora</h5>
-                                        <span>Amazon</span>
+                                        <span>Consultant</span>
                                     </div>
                                 </div>
                                 <div class="client-say">
-                                    <p><img src="img/quote.png" alt="quote" class="img-fluid">  Rapidiously develop user friendly growth strategies after extensive initiatives. Conveniently grow innovative benefits through fully tested deliverables. Rapidiously utilize focused platforms through end-to-end schemas.</p>
+                                    <p><img src="img/quote.png" alt="quote" class="img-fluid">  I'm very impressed with your last service deservery to me few months ago.</p>
                                 </div>
                             </div>
                         </div>
@@ -924,10 +931,9 @@
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="section-heading text-center mb-5">
-                        <h2>Trusted by companies</h2>
+                        <h2>Our Clients</h2>
                         <p class="lead">
-                            Rapidiously morph transparent internal or "organic" sources whereas resource sucking
-                            e-business. Conveniently innovate compelling internal.
+                        We have worked with and for companies to help build amazing products.
                         </p>
                     </div>
                 </div>
@@ -1005,9 +1011,8 @@
             <div class="row justify-content-between">
                 <div class="col-lg-3 mb-3 mb-lg-0">
                     <div class="footer-nav-wrap text-white">
-                        <img src="img/logo-white-1x.png" alt="footer logo" width="120" class="img-fluid mb-3">
-                        <p>Holisticly empower premium architectures without value-added ideas. Seamlessly evolve
-                            cross-platform experiences.</p>
+                        <a class="navbar-brand text-secondary font-weight-bolder btn btn-primary p-2 bg-white mb-2" href="#">GrowthSynthesis</a>
+                        <p>We are a boutique digital transformation consultancy and software development company that provides cutting edge engineering solutions.</p>
 
                         <div class="social-list-wrap">
                             <ul class="social-list list-inline list-unstyled">
