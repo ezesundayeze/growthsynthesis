@@ -582,9 +582,9 @@
             <!--end app screen carousel-->
 
             <div class="row text-center p-2">
-                <div class="col-md-4 p-0" style="border:1px solid lightgrey; height:260px; background-image:url('img/about-img.jpg'); border-radius:3px; box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.12); background-position:center; background-repeat:no-repeat; background-size:100%;"><span class="font-weight-bold position-relative text-white p-2" style="top:50%; display:block; background-color:#4b4b4bd1; letter-spacing: 3px;">Payment Integration System</span></div>
-                <div class="col-md-4 p-0" style="border:1px solid lightgrey; height:260px; background-image:url('img/about-img.jpg'); border-radius:3px; box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.12); background-position:center; background-repeat:no-repeat; background-size:100%;"><span class="font-weight-bold position-relative text-white p-2" style="top:50%; display:block; background-color:#4b4b4bd1; letter-spacing: 3px;">Infomation Management System</span></div>
-                <div class="col-md-4 p-0" style="border:1px solid lightgrey; height:260px; background-image:url('img/about-img.jpg'); border-radius:3px; box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.12); background-position:center; background-repeat:no-repeat; background-size:100%;"><span class="font-weight-bold position-relative text-white p-2" style="top:50%; display:block; background-color:#4b4b4bd1; letter-spacing: 3px;">Hospital Management System</span></div>
+                <div class="col-md-4 p-0" style="border:1px solid lightgrey; height:260px; background-image:url('img/about-img.jpg'); border-radius:3px; box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.12); background-position:center; background-repeat:no-repeat; background-size:cover;"><span class="font-weight-bold position-relative text-white p-2" style="top:50%; display:block; background-color:#4b4b4bd1; letter-spacing: 3px;">Payment Integration System</span></div>
+                <div class="col-md-4 p-0" style="border:1px solid lightgrey; height:260px; background-image:url('img/about-img.png'); border-radius:3px; box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.12); background-position:center; background-repeat:no-repeat; background-size:cover;"><span class="font-weight-bold position-relative text-white p-2" style="top:50%; display:block; background-color:#4b4b4bd1; letter-spacing: 3px;">Infomation Management System</span></div>
+                <div class="col-md-4 p-0" style="border:1px solid lightgrey; height:260px; background-image:url('img/blog/4.jpg'); border-radius:3px; box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.12); background-position:center; background-repeat:no-repeat; background-size:cover;"><span class="font-weight-bold position-relative text-white p-2" style="top:50%; display:block; background-color:#4b4b4bd1; letter-spacing: 3px;">Hospital Management System</span></div>
                 <!-- <p class="text-center"><a href="#" class="btn solid-btn bg-white text-secondary my-5">More Details</a></p> -->
             </div>
 
@@ -732,7 +732,7 @@
                                     </div>
                                 </div>
                                 <div class="client-say">
-                                    <p><img src="img/quote.png" alt="quote" class="img-fluid">  I'm very impressed with your last service deservery to me few months ago.</p>
+                                    <p><img src="img/quote.png" alt="quote" class="img-fluid">I'm very impressed with the quality service I received from growthsynthesis.</p>
                                 </div>
                             </div>
                         </div>
