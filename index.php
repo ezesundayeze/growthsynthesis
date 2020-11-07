@@ -600,7 +600,7 @@
                     <div class="section-heading text-center mb-5">
                         <h2>Our team members</h2>
                         <p class="lead">
-                            Following reasons show advantages of adding GrowthSynthesis to your lead pages, demos and checkouts
+                            
                         </p>
                     </div>
                 </div>
